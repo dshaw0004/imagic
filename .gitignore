@@ -1,0 +1,9 @@
+.idea/
+output/
+
+
+setup.iss
+
+*.tmp
+*.un~
+addons.txt
