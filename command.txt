@@ -1,0 +1,2 @@
+pyinstaller main.py --name "Imagic" -D --add-data "C:/Users/User/AppData/Local/Programs/Python/Python311/Lib/site-packages/custometkinter;customtkinter/" 
+--add-data "D:/tkinter apps/imagic/Assets;Assets/" -m "D:/tkinter apps/imagic/Imagic.menifest"
